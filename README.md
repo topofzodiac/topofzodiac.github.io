@@ -1,4 +1,4 @@
-# 🗼 탑오브 조디악 Top of Zodiac
+# 🗼 탑 오브 조디악 Top of Zodiac
 
 **운명을 건 탑의 여정이 시작된다.**  
 《Top of Zodiac》는 십이지 수인을 모티브로 한 탑등반 로그라이크 파티 던전 액션 RPG입니다.  
