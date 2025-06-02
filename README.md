@@ -1,3 +1,5 @@
+![Top of Zodiac](topofzodiac.jpg)
+
 # 🗼 탑 오브 조디악 Top of Zodiac
 
 **운명을 건 탑의 여정이 시작된다.**  
